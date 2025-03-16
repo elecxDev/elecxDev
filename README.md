@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! I'm elec
 
-<!--
-**elecxDev/elecxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **AI & ML Student | Data Analytics Enthusiast | Game & Web Developer**
 
-Here are some ideas to get you started:
+🚀 **Currently Building:**  
+- 🌱 **QualiSoil** – A web app for real-time soil quality monitoring and AI insights
+- 🔎 **Searchlyzer** – A powerful search engine analyzer for predictive analytics  
+- 🛍️ **Luxmerce** – A next-gen e-commerce platform with AI-driven recommendations  
+- 🎮 **Flappy Pipe** – A twist on Flappy Bird where you control the pipes    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack:**  
+- **Languages:** C++, C#, Java, Flutter, HTML, CSS, Svelte, Next.js, Node.js  
+- **Databases:** Oracle SQL, MongoDB, Supabase  
+- **Tools:** VS Code, Unity, Visual Studio, Arduino IDE, Android Studio, Plastic SCM, NetBeans, GitHub, Aseprite
+
+🎨 **Creative Media Freelancer**  
+Beyond coding, I bring ideas to life with **Creative image processing, VFX, and Motion graphics**! Need something eye-catching? Let's make it happen! 🚀  
+
+🎮 **Check out my games!**  
+- 🕹️ [My itch.io profile](https://elecx.itch.io)  
+- 🎭 [Cukcd Studios](https://cukcds.itch.io) – A game dev studio I co-run
+
+💡 Always building, always learning. Stay tuned for more cool projects!
+
+📩 **Contact me:** [elecdev.business@gmail.com](mailto:elecdev.business@gmail.com)  
