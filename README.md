@@ -9,7 +9,7 @@
 - 🎮 **Flappy Pipe** – A twist on Flappy Bird where you control the pipes    
 
 🛠 **Tech Stack:**  
-- **Languages:** C++, C#, Java, Flutter, HTML, CSS, Svelte, Next.js, Node.js  
+- **Languages:** Python, C++, C#, Java, Flutter, HTML, CSS, Svelte, Next.js, Node.js  
 - **Databases:** Oracle SQL, MongoDB, Supabase  
 - **Tools:** VS Code, Unity, Visual Studio, Arduino IDE, Android Studio, Plastic SCM, NetBeans, GitHub, Aseprite
 
