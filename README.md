@@ -10,7 +10,7 @@
 
 🛠 **Tech Stack:**  
 - **Languages:** Python, C++, C#, Java, Flutter, HTML, CSS, Svelte, Next.js, Node.js  
-- **Databases:** Oracle SQL, MongoDB, Supabase  
+- **Databases:** Oracle SQL, MySQL, MongoDB, Supabase  
 - **Tools:** VS Code, Unity, Visual Studio, Arduino IDE, Android Studio, Plastic SCM, NetBeans, GitHub, Aseprite
 
 🎨 **Creative Media Freelancer**  
