@@ -4,6 +4,7 @@
 
 🚀 **Currently Building:**  
 - 🌱 **QualiSoil** – A web app for real-time soil quality monitoring and AI insights
+- ⏳ **QuickTask** - A task management app with AI-powered scheduling and real-time productivity tracking
 - 🔎 **Searchlyzer** – A powerful search engine analyzer for predictive analytics  
 - 🛍️ **Luxmerce** – A next-gen e-commerce platform with AI-driven recommendations  
 - 🎮 **Flappy Pipe** – A twist on Flappy Bird where you control the pipes    
