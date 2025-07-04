@@ -6,11 +6,11 @@
 
 ## 🚀 **Currently Building:**
 
-- <img src="https://img.shields.io/badge/QualiSoil-6aa84f?style=flat-square&logo=leaflet&logoColor=white" alt="QualiSoil" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Real-time soil quality monitoring + AI insights  
-- <img src="https://img.shields.io/badge/QuickTask-f6b26b?style=flat-square&logo=todoist&logoColor=white" alt="QuickTask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Smart task manager with AI scheduling  
-- <img src="https://img.shields.io/badge/Searchlyzer-3c78d8?style=flat-square&logo=algolia&logoColor=white" alt="Searchlyzer" /> &nbsp;&nbsp;&nbsp;Search engine analyzer for predictive insights and a powerful SEO tool  
-- <img src="https://img.shields.io/badge/Luxmerce-8e7cc3?style=flat-square&logo=shopify&logoColor=white" alt="Luxmerce" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-commerce powered by AI-driven recommendations  
-- <img src="https://img.shields.io/badge/Flappy%20Pipe-e06666?style=flat-square&logo=unity&logoColor=white" alt="Flappy Pipe" /> &nbsp;&nbsp;&nbsp;&nbsp;A 2D game where you switch teams and control the pipes in this Flappy Bird revamp
+- <img src="https://img.shields.io/badge/QualiSoil-6aa84f?style=for-the-badge&&logo=leaflet&logoColor=white" alt="QualiSoil" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Real-time soil quality monitoring + AI insights  
+- <img src="https://img.shields.io/badge/QuickTask-f6b26b?style=for-the-badge&&logo=todoist&logoColor=white" alt="QuickTask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Smart task manager with AI scheduling  
+- <img src="https://img.shields.io/badge/Searchlyzer-3c78d8?style=for-the-badge&&logo=algolia&logoColor=white" alt="Searchlyzer" /> &nbsp;&nbsp;&nbsp;Search engine analyzer for predictive insights and a powerful SEO tool  
+- <img src="https://img.shields.io/badge/Luxmerce-8e7cc3?style=for-the-badge&&logo=shopify&logoColor=white" alt="Luxmerce" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-commerce powered by AI-driven recommendations  
+- <img src="https://img.shields.io/badge/Flappy%20Pipe-e06666?style=for-the-badge&&logo=unity&logoColor=white" alt="Flappy Pipe" /> &nbsp;&nbsp;&nbsp;&nbsp;A 2D game where you switch teams and control the pipes in this Flappy Bird revamp
 
 
 ## 🛠 **Tech Stack**
