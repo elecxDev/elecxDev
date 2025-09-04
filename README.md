@@ -1,4 +1,4 @@
-# <img src="https://static.vecteezy.com/system/resources/thumbnails/017/190/293/small_2x/hi-text-lettering-digital-planner-sticker-and-3d-text-png.png" width="60" />, I'm **elec**
+# <img src="https://static.vecteezy.com/system/resources/thumbnails/017/190/293/small_2x/hi-text-lettering-digital-planner-sticker-and-3d-text-png.png" width="60" />, I'm **clinton**
 
 ### 💻 *I'm an AI & ML Student | Data Analytics enthusiast | Game, Web & App Developer |*
 ### ⚡ I love building games & apps that *actually do stuff*
