@@ -84,4 +84,5 @@ Apart from the technical stuff, I also freelance VFX, video editing, and static/
 
 ## 📫 **Contact Me:**
 Connect with me here : [elecdev.business@gmail.com](mailto:elecdev.business@gmail.com)<br>
-Linkedin: [Adriel Clinton](https://linkedin.com/in/adrielclinton)
+Linkedin: [Adriel Clinton](https://linkedin.com/in/adrielclinton)<br>
+GitLab: [elecxDev](https://gitlab.com/elecxDev)
