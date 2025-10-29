@@ -4,12 +4,12 @@
 ### I love building games & apps that *actually do stuff*
 
 
-## 🚀 **Currently Building:**
+## 🔨**what I'm currently working on:**
 
+- <img src="https://img.shields.io/badge/Blinky-ffffc3?style=for-the-badge&&logo=springsecurity&logoColor=black" alt="Blinky" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Browser extension with a companion app designed as a digital “safety buddy” for children
 - <img src="https://img.shields.io/badge/QualiSoil-6aa84f?style=for-the-badge&&logo=leaflet&logoColor=white" alt="QualiSoil" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Real-time soil quality monitoring + AI insights with Mistral
 - <img src="https://img.shields.io/badge/QuickTask-f6b26b?style=for-the-badge&&logo=todoist&logoColor=white" alt="QuickTask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Smart task manager with AI scheduling via Flutter
 - <img src="https://img.shields.io/badge/Searchlyzer-3c78d8?style=for-the-badge&&logo=algolia&logoColor=white" alt="Searchlyzer" /> &nbsp;&nbsp;&nbsp;Search engine analyzer for predictive insights and a powerful SEO & SEO-R tool 
-- <img src="https://img.shields.io/badge/Luxmerce-8e7cc3?style=for-the-badge&&logo=shopify&logoColor=white" alt="Luxmerce" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-commerce powered by AI-driven recommendations for optimizing UX
 - <img src="https://img.shields.io/badge/Flappy%20Pipe-e06666?style=for-the-badge&&logo=unity&logoColor=white" alt="Flappy Pipe" /> &nbsp;&nbsp;&nbsp;&nbsp;A 2D game where you switch teams and control the pipes in this Flappy Bird revamp
 
 
@@ -54,7 +54,7 @@
 
 
 
-## 🎨 **Creative Freelancer**  
+## 📽️ **Creative Freelancer**  
 Apart from the technical stuff, I also freelance VFX, video editing, and static/image manipulation on the side.
 
 
@@ -83,4 +83,5 @@ Apart from the technical stuff, I also freelance VFX, video editing, and static/
 
 
 ## 📫 **Contact Me:**
-📧 Connect with me here : [elecdev.business@gmail.com](mailto:elecdev.business@gmail.com)
+Connect with me here : [elecdev.business@gmail.com](mailto:elecdev.business@gmail.com)<br>
+Linkedin: [Adriel Clinton](https://linkedin.com/in/adrielclinton)
